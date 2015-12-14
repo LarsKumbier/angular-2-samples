@@ -1,5 +1,10 @@
 {
   "name": "angular2-poc",
+  "author": "thelgevold",
+  "contributors": [
+    "Lars Kumbier <lars@kumbier.it> (http://kumbier.it)"
+  ],
+  "repository": "LarsKumbier/angular-2-samples",
   "dependencies": {
     "angular2": "2.0.0-alpha.52",
     "es6-promise": "^3.0.2",
